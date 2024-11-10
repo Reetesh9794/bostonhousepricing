@@ -15,6 +15,8 @@
 
 [Model](#Model)
 
+[python Library](#Requirements)
+
 [Results](#Results)
 
 [Software And Tools Requirements](#Software)
@@ -76,11 +78,27 @@ pip install -r requirements.txt
 
 Various regression models are used in this project:
 
-  Linear Regression
+  Linear Regression 
+  
   Ridge Regression
+  
   Lasso Regression
 
 Each model is evaluated based on metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared score.
+
+## Requirements
+
+  Flask 
+  
+  sklearn 
+  
+  pandas
+  
+  numpy
+  
+  matplotlib
+  
+  gunicorn
 
 ### Results
 
