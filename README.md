@@ -5,16 +5,21 @@
 
 ### Table of Contents
 
-    Overview
-    Dataset
-    Installation
-    Usage
-    Model
-    Results
-    Contributing
-    Acknowledgements
+[Overview](#Overview)
 
-### Overview
+[Dataset](#Dataset)
+
+[Installation](#Installation)
+
+[Usage](#Usage)
+
+[Model](#Model)
+
+[Results](#Results)
+
+[Software And Tools Requirements](#Software)
+
+## Overview
 
 This project aims to predict house prices in Boston using various machine learning algorithms. The dataset used is the famous Boston Housing Dataset, which includes features like crime rate, number of rooms, and distance to employment centers.
 ### Dataset
@@ -38,8 +43,8 @@ The dataset contains 506 samples with 13 features each. The target variable is t
 ### Installation
 
 * Clone the repository:
-
-https://github.com/1073rajan/bostonhousepricing.git
+  
+          git clone https://github.com/Reetesh9794/bostonhousepricing.git
 
 * Create and activate a virtual environment:
 
@@ -82,7 +87,7 @@ Each model is evaluated based on metrics like Mean Absolute Error (MAE), Mean Sq
 The performance of the models can be found in the results directory. The model_comparison.csv file contains the evaluation metrics for each model.
 
 
-##Software And Tools Requirements
+## Software
 
     Githubs Account
     Vs Code IDE
